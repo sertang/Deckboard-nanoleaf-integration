@@ -1,10 +1,9 @@
 # deckboard-power-control
-Shutdown and restart functions for Deckboard
+A growing deckboard extension
 
 ## Install
-- Clone this repository in Users/%USER%/deckboard/extensions directory.
-`` git clone https://github.com/rivafarabi/deckboard-power-control.git ``
+-Download the Repo
 
-- Do ``npm install`` in newly created deckboard-power-control folder
+-place the folder inside of C:\Users\%USER%\deckboard\extensions
 
-- Restart Deckboard
+-use "npm install" in a shell inside of the folder
