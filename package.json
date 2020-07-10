@@ -1,0 +1,17 @@
+{
+  "name": "nanoleaf-integration",
+  "version": "1.0.0",
+  "description": "nanoleaf control for deckboard",
+  "main": "index.js",
+  "scripts": {
+    "build": "deckboard-kit --build"
+  },
+  "author": "IceCreammms",
+  "license": "MIT",
+  "dependencies": {
+    "deckboard-extension-kit": "0.0.2",
+    "deckboard-kit": "^0.1.0",
+    "nanoleaf-aurora-client": "^1.2.2",
+    "wintools": "^0.1.0"
+  }
+}

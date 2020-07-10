@@ -1,0 +1,8 @@
+name: nanoleaf-integration
+package: nanoleaf
+version: 1.0.0
+description: nanoleaf control for deckboard
+author: IceCreammms
+license: MIT
+url: ""
+asarUrl: ""
